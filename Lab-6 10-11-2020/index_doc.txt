@@ -1,0 +1,10 @@
+sharan1||1BM18CS112 
+sharan2||1BM18CS113
+sharan3||1BM18CS114 
+sharan4||1BM18CS115 
+sharan5||1BM18CS116 
+sharan6||1BM18CS117 
+sharan7||1BM18CS118 
+sharan8||1BM18CS119 
+sharan9||1BM18CS120 
+sharan10||1BM18CS121 
